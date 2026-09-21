@@ -23,6 +23,8 @@ pip install -r requirements.txt opencv-python              # opencv = live HUD w
 
 **Option A — use the iApp API (no GPU needed).** Register at [iapp.co.th](https://iapp.co.th), create an API key, then:
 
+> Status: the `openthai/systemone` route on api.iapp.co.th is being enabled; until it is live, use Option B or C.
+
 ```bash
 export IAPP_API_KEY=iapp_live_xxxxxxxxxxxxxxxx
 python play_doom.py                                        # deadly corridor, live window; q to quit
