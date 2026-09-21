@@ -2,7 +2,9 @@
 
 A tiny open **decision model** (0.8B, no text generation, no vision) controlling Doom in real time, on your own machine.
 
-![OpenThai-SystemOne playing Doom](assets/frame.png)
+![OpenThai-SystemOne playing Doom](assets/doom_10s.gif)
+
+([full-resolution frame](assets/frame.png))
 
 Every step, the game's symbolic state (health, ammo, enemies with distance and bearing, wall depth, last actions) is sent
 as **text** to [OpenThai-SystemOne](https://huggingface.co/iapp/OpenThai-SystemOne), which answers two typed questions in
