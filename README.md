@@ -73,7 +73,7 @@ this harness also works against any System One model.
 ## Files
 
 - `play_doom.py` — the whole demo (state serialisation, model call, HUD, optional recording)
-- `fonts/` — Sarabun (OFL) for the Thai HUD
+- `fonts/` — Sarabun by Cadson Demak, SIL Open Font License 1.1 (see `fonts/OFL.txt`), used for the Thai HUD
 
 ## Credits
 
