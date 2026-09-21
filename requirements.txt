@@ -1,0 +1,5 @@
+vizdoom>=1.2
+pillow>=10
+requests>=2.31
+numpy
+# optional: opencv-python (live HUD window), openthai-systemone (run the model locally)
